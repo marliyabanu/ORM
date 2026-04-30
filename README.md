@@ -48,8 +48,8 @@ admin.site.register(OrderTransaction,OrderTransactionAdmin)
 ```
 
 ## OUTPUT
+<img width="577" height="494" alt="image" src="https://github.com/user-attachments/assets/7fe1ac0d-a716-43bf-8f7f-78115a7ceee5" />
 
-<img width="632" height="495" alt="image" src="https://github.com/user-attachments/assets/f538a216-371a-4538-ac7c-b0cc85f550c2" />
 
 <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/e2badaf8-5f44-460e-abfd-8437861d0f04" />
 
