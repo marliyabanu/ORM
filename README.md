@@ -46,7 +46,7 @@ from .models import OrderTransaction,OrderTransactionAdmin
 admin.site.register(OrderTransaction,OrderTransactionAdmin)
 ```
 ## OUTPUT
-![Output](output.png)
+![Output](images/output.png)
 
 
 
