@@ -15,7 +15,7 @@ Clone the problem from GitHub
 ### STEP 2:
 Create a new app in Django project
 
-### STEP 3:
+### STEP 3:git remote set-url origin
 Enter the code for admin.py and models.py
 
 ### STEP 4:
@@ -46,7 +46,8 @@ from .models import OrderTransaction,OrderTransactionAdmin
 admin.site.register(OrderTransaction,OrderTransactionAdmin)
 ```
 ## OUTPUT
-![alt text](<../Screenshot 2026-05-12 213711.png>)
+![Output](images.png)
+
 
 
 ## RESULT
